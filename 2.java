@@ -46,8 +46,8 @@ hi there from dev1
 
 
 
-:q
-:q!
-:wq
+
+
+
 
 
